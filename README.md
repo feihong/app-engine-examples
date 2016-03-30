@@ -25,3 +25,4 @@ To run in the cloud:
 
 - [Hello World in 5 Minutes](https://cloud.google.com/appengine/docs/python/)
 - [Using the Remote API in a Local Client](https://cloud.google.com/appengine/docs/python/tools/remoteapi#using_the_remote_api_in_a_local_client)
+- [Google Application Default Credentials](https://developers.google.com/accounts/docs/application-default-credentials)
