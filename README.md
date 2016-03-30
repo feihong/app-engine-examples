@@ -20,3 +20,8 @@ To run in the cloud:
 - Note the project ID of the newly-created project (let's say it's hello-world-1234).
 - Run the following command: `appcfg.py -A hello-world-1234 update helloworld/`
 - Visit http://hello-world-1234.appspot.com to view your app.
+
+## Links
+
+- [Hello World in 5 Minutes](https://cloud.google.com/appengine/docs/python/)
+- [Using the Remote API in a Local Client](https://cloud.google.com/appengine/docs/python/tools/remoteapi#using_the_remote_api_in_a_local_client)
